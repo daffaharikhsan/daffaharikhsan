@@ -10,7 +10,7 @@
   <a href="https://drive.google.com/drive/folders/1244VObg6Gu3XBwyXmmE2GOEF_UDYlu5c?usp=drive_link">📄 Resume</a> ·
   <a href="https://linkedin.com/in/daffa-harikhsan-26sep04">💼 LinkedIn</a> ·
   <a href="https://instagram.com/daffaharikhsan_">📸 Instagram</a> ·
-  <a href="mailto:dharikhsan22@gmail.com">✉️ Email</a>
+  <a href="mailto:hello@daffaharikhsan.com">✉️ Email</a>
 </p>
 
 ---

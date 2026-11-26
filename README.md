@@ -49,7 +49,7 @@
 **Photo & Video**
 <p align="left">
   <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg" alt="Premiere Pro" width="40" height="40"/></a>
-  <a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank" rel="noreferrer">Lightroom</a>
+  <a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/adobe-lightroom.svg" alt="Lightroom" width="40" height="40"/></a>
 </p>
 
 **Workflow**
